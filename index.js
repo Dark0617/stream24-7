@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('dsc.gg/divinestore')
     .setDetails(`dsc.gg/divinestore`) //[${formatTime()}] and this for showing time of stream.
     .setStartTimestamp(Date.now())
-    .setAssetsLargeImage('https://media.discordapp.net/attachments/791595948928794624/1198902664306634753/standard.gif?ex=661ce11d&is=660a6c1d&hm=d1c37f69ca4defad53ace17fc4d3b99ed297e35507b2ba322015c4dac1259eb0&=') //You can put links in tenor or discord and etc.
+    .setAssetsLargeImage('https://media.discordapp.net/attachments/791210506861150211/1227968035269247016/Project_114_AA1D151-ezgif.com-video-to-gif-converter.gif?ex=662a555a&is=6617e05a&hm=d33abb2afab1dc01b38772c50c776c5fd989c1c7f60f6bbaa3e692541f8f716e&=&width=473&height=473') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Join Now!') //Text when you hover the Large image
     .addButton('Join Divine!', 'https://dsc.gg/divinestore')
     .addButton('About Me!', 'https://guns.lol/darkk');
